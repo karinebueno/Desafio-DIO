@@ -1,8 +1,3 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-}
 # Created by https://www.toptal.com/developers/gitignore/api/java,intellij,eclipse,visualstudiocode
         # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij,eclipse,visualstudiocode
 
